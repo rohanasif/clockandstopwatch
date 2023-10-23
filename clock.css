@@ -1,0 +1,16 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+body {
+    background-image: linear-gradient(to right,rgba(25, 0, 255, 0.5), rgba(0, 255, 13, 0.5));
+}
+
+#time {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 3rem;
+    text-align: center;
+    color: #333;
+    margin-top: 5rem;
+}
